@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+    <bean id="ptm1" class="org.springframework.jdbc.datasource.DataSourceTransactionManager">
+        <property name="dataSource" ref="ds"/>
+    </bean>
+    <bean id="ptm2" class="org.springframework.jdbc.datasource.DataSourceTransactionManager">
+        <property name="dataSource" ref="ds"/>
+    </bean>
+    <bean id="ds" class="org.apache.commons.dbcp.BasicDataSource">
+        <property value="com.mysql.jdbc.Driver" name="driverClassName"/>
+        <property value="jdbc:mysql://unit-300:3306/jbtests" name="url"/>
+        <property value="irina" name="username"/>
+        <property value="jolt" name="password"/>
+    </bean>
+</beans>

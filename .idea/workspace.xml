@@ -1,0 +1,915 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f7679403-fe17-472a-be9b-a7e7fc3c89b0" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sqldialects.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testingFrameworkTest1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/testingFrameworkTest1.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+      <option value="module" />
+    </option>
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MySQL - jbtests@unit-300" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MySQL - jbtests@unit-300" type="feb32156:DbDataSourceImpl" />
+        <item name="jbtests: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MySQL - jbtests@unit-300" type="feb32156:DbDataSourceImpl" />
+        <item name="jbtests: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="tables" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="testingFrameworkTest1" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit4 Test Class" />
+        <option value="AnnotationType" />
+        <option value="spring-beans.schema" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>MyTestProperties</find>
+      <find>\\</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>/</replace>
+    </replaceStrings>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../../../../Maven/apache-maven-3.3.1" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1PPwv1F2KwjCvMLuqqOS1wAtOSP" />
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>AOP</id>
+          </State>
+          <State>
+            <id>Abstraction issuesJava</id>
+          </State>
+          <State>
+            <id>ActionScript specificJavaScript</id>
+          </State>
+          <State>
+            <id>Application Server Specific Inspections</id>
+          </State>
+          <State>
+            <id>Assignment issuesJava</id>
+          </State>
+          <State>
+            <id>Assignment issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Bitwise operation issuesJava</id>
+          </State>
+          <State>
+            <id>Bitwise operation issuesJavaScript</id>
+          </State>
+          <State>
+            <id>CDI(Contexts and Dependency Injection) issues</id>
+          </State>
+          <State>
+            <id>Class metricsJava</id>
+          </State>
+          <State>
+            <id>Class structureJava</id>
+          </State>
+          <State>
+            <id>Cloning issuesJava</id>
+          </State>
+          <State>
+            <id>Code maturity issuesJava</id>
+          </State>
+          <State>
+            <id>Code quality toolsJavaScript</id>
+          </State>
+          <State>
+            <id>Code style issuesJava</id>
+          </State>
+          <State>
+            <id>Code style issuesJavaScript</id>
+          </State>
+          <State>
+            <id>CodeSpring CoreSpring</id>
+          </State>
+          <State>
+            <id>Compiler issuesJava</id>
+          </State>
+          <State>
+            <id>Concurrency annotation issuesJava</id>
+          </State>
+          <State>
+            <id>Control flow issuesJava</id>
+          </State>
+          <State>
+            <id>Control flow issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Cucumber Java</id>
+          </State>
+          <State>
+            <id>DOM issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Data flow issuesJava</id>
+          </State>
+          <State>
+            <id>Data flow issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Declaration redundancyJava</id>
+          </State>
+          <State>
+            <id>Dependency issuesJava</id>
+          </State>
+          <State>
+            <id>Encapsulation issuesJava</id>
+          </State>
+          <State>
+            <id>Error handlingJava</id>
+          </State>
+          <State>
+            <id>Error handlingJavaScript</id>
+          </State>
+          <State>
+            <id>Faces Model</id>
+          </State>
+          <State>
+            <id>Finalization issuesJava</id>
+          </State>
+          <State>
+            <id>GPath inspectionsGroovy</id>
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+          <State>
+            <id>GeneralJava</id>
+          </State>
+          <State>
+            <id>GeneralJavaScript</id>
+          </State>
+          <State>
+            <id>Google Web Toolkit issues</id>
+          </State>
+          <State>
+            <id>Groovy</id>
+          </State>
+          <State>
+            <id>Hibernate Issues</id>
+          </State>
+          <State>
+            <id>ImportsJava</id>
+          </State>
+          <State>
+            <id>Inheritance issuesJava</id>
+          </State>
+          <State>
+            <id>Initialization issuesJava</id>
+          </State>
+          <State>
+            <id>Internationalization issues</id>
+          </State>
+          <State>
+            <id>Internationalization issuesJava</id>
+          </State>
+          <State>
+            <id>J2ME issuesJava</id>
+          </State>
+          <State>
+            <id>JBoss Seam issues</id>
+          </State>
+          <State>
+            <id>JPA issues</id>
+          </State>
+          <State>
+            <id>JSP Inspections</id>
+          </State>
+          <State>
+            <id>JUnit issuesJava</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Java EE issues</id>
+          </State>
+          <State>
+            <id>Java language level issuesJava</id>
+          </State>
+          <State>
+            <id>Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>JavaBeans issuesJava</id>
+          </State>
+          <State>
+            <id>JavaFX</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript function metricsJavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript validity issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Javadoc issuesJava</id>
+          </State>
+          <State>
+            <id>Language Injection</id>
+          </State>
+          <State>
+            <id>Logging issuesJava</id>
+          </State>
+          <State>
+            <id>Memory issuesJava</id>
+          </State>
+          <State>
+            <id>Method metricsJava</id>
+          </State>
+          <State>
+            <id>Modularization issuesJava</id>
+          </State>
+          <State>
+            <id>Naming ConventionsGroovy</id>
+          </State>
+          <State>
+            <id>Naming conventionsJava</id>
+          </State>
+          <State>
+            <id>Naming conventionsJavaScript</id>
+          </State>
+          <State>
+            <id>Numeric issuesJava</id>
+          </State>
+          <State>
+            <id>Packaging issuesJava</id>
+          </State>
+          <State>
+            <id>Performance issuesJava</id>
+          </State>
+          <State>
+            <id>Plugin DevKit</id>
+          </State>
+          <State>
+            <id>Portability issuesJava</id>
+          </State>
+          <State>
+            <id>Potentially confusing code constructsJavaScript</id>
+          </State>
+          <State>
+            <id>Probable bugsGroovy</id>
+          </State>
+          <State>
+            <id>Probable bugsJava</id>
+          </State>
+          <State>
+            <id>Probable bugsJavaScript</id>
+          </State>
+          <State>
+            <id>Properties Files</id>
+          </State>
+          <State>
+            <id>Properties FilesJava</id>
+          </State>
+          <State>
+            <id>RESTful Web Service</id>
+          </State>
+          <State>
+            <id>Resource management issuesJava</id>
+          </State>
+          <State>
+            <id>Security issuesJava</id>
+          </State>
+          <State>
+            <id>Serialization issuesJava</id>
+          </State>
+          <State>
+            <id>Spring</id>
+          </State>
+          <State>
+            <id>Spring CoreSpring</id>
+          </State>
+          <State>
+            <id>Struts</id>
+          </State>
+          <State>
+            <id>Struts 1Struts</id>
+          </State>
+          <State>
+            <id>StyleGroovy</id>
+          </State>
+          <State>
+            <id>Threading issuesGroovy</id>
+          </State>
+          <State>
+            <id>Threading issuesJava</id>
+          </State>
+          <State>
+            <id>Verbose or redundant code constructsJava</id>
+          </State>
+          <State>
+            <id>Visibility issuesJava</id>
+          </State>
+          <State>
+            <id>Web Services</id>
+          </State>
+          <State>
+            <id>WebSocket issues</id>
+          </State>
+          <State>
+            <id>toString() issuesJava</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>SpringContextConfigurationInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showModules" value="false" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources" />
+    <property name="ml.local.models.training.notification.expired" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.jscs" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.jscs" value="" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="options.lastSelected" value="vcs.TFS" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\petro\IdeaProjects\Spring\Spring_testing\testingFrameworkTest1\resources" />
+      <recent name="C:\Users\Irina.Petrovskaya\IdeaProjects\Spring\Spring43\testingFrameworkTest1\resources" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Irina.Petrovskaya\IdeaProjects\Spring\Spring43\testingFrameworkTest1\tests\com\mytests\spring43\testingFramework\test1" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.mytests.spring43.testingFramework.test1" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.mytests.spring43.testingFramework.test1.components" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.mytests.spring43.testingFramework.test1" />
+      <recent name="com.mytests.spring43.testingFramework.test1.annotations" />
+      <recent name="com.mytests.spring43.testingFramework.test1.configs" />
+      <recent name="com.mytests.spring43.testingFramework.test1.beans" />
+      <recent name="com.mytests.spring43.testingFramework.test1.components" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.TestDefaultMetaAnnotationWithValue">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <Java />
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Instrumented Tests">
+      <option name="TESTING_TYPE" value="0" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="INCLUDE_GRADLE_EXTRA_OPTIONS" value="true" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <Java />
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="passParentEnv" value="true" />
+      <setting name="grailsApplicationRoot" value="" />
+      <setting name="launchBrowser" value="true" />
+      <setting name="launchBrowserUrl" value="" />
+      <setting name="depsClasspath" value="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestCustomMetaAnnotation" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="testingFrameworkTest1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mytests.spring43.testingFramework.test1.metaContextConfigurationAnnotations.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.mytests.spring43.testingFramework.test1.metaContextConfigurationAnnotations" />
+      <option name="MAIN_CLASS_NAME" value="com.mytests.spring43.testingFramework.test1.metaContextConfigurationAnnotations.TestCustomMetaAnnotation" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCustomMetaAnnotationWithDefaultsNoValue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="testingFrameworkTest1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mytests.spring43.testingFramework.test1.metaContextConfigurationAnnotations.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.mytests.spring43.testingFramework.test1.metaContextConfigurationAnnotations" />
+      <option name="MAIN_CLASS_NAME" value="com.mytests.spring43.testingFramework.test1.metaContextConfigurationAnnotations.TestCustomMetaAnnotationWithDefaultsNoValue" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCustomMetaAnnotationWithDefaultsWithValue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="testingFrameworkTest1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mytests.spring43.testingFramework.test1.metaContextConfigurationAnnotations.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.mytests.spring43.testingFramework.test1.metaContextConfigurationAnnotations" />
+      <option name="MAIN_CLASS_NAME" value="com.mytests.spring43.testingFramework.test1.metaContextConfigurationAnnotations.TestCustomMetaAnnotationWithDefaultsWithValue" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestDefaultMetaAnnotationWithDefaults" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="testingFrameworkTest1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mytests.spring43.testingFramework.test1.metaContextConfigurationAnnotations.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.mytests.spring43.testingFramework.test1.metaContextConfigurationAnnotations" />
+      <option name="MAIN_CLASS_NAME" value="com.mytests.spring43.testingFramework.test1.metaContextConfigurationAnnotations.TestDefaultMetaAnnotationWithDefaults" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestDefaultMetaAnnotationWithValue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="testingFrameworkTest1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mytests.spring43.testingFramework.test1.metaContextConfigurationAnnotations.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.mytests.spring43.testingFramework.test1.metaContextConfigurationAnnotations" />
+      <option name="MAIN_CLASS_NAME" value="com.mytests.spring43.testingFramework.test1.metaContextConfigurationAnnotations.TestDefaultMetaAnnotationWithValue" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.TestCustomMetaAnnotation" />
+      <item itemvalue="JUnit.TestCustomMetaAnnotationWithDefaultsNoValue" />
+      <item itemvalue="JUnit.TestCustomMetaAnnotationWithDefaultsWithValue" />
+      <item itemvalue="JUnit.TestDefaultMetaAnnotationWithDefaults" />
+      <item itemvalue="JUnit.TestDefaultMetaAnnotationWithValue" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestDefaultMetaAnnotationWithValue" />
+        <item itemvalue="JUnit.TestDefaultMetaAnnotationWithDefaults" />
+        <item itemvalue="JUnit.TestCustomMetaAnnotationWithDefaultsWithValue" />
+        <item itemvalue="JUnit.TestCustomMetaAnnotationWithDefaultsNoValue" />
+        <item itemvalue="JUnit.TestCustomMetaAnnotation" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="RuntimeDashboard">
+    <groupers>
+      <grouper name="TypeGroupingRule" enabled="true" />
+      <grouper name="StatusGroupingRule" enabled="true" />
+      <grouper name="FolderGroupingRule" enabled="true" />
+    </groupers>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpringBeansView">
+    <option name="showDoc" value="false" />
+    <option name="showGraph" value="false" />
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",SHOW_PROPERTIES,SHOW_INHERITED" />
+  </component>
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\petro\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+    <option name="runUnderTerminal" value="true" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f7679403-fe17-472a-be9b-a7e7fc3c89b0" name="Default" comment="" />
+      <created>1468577706273</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1468577706273</updated>
+      <workItem from="1468577721795" duration="504000" />
+      <workItem from="1468578233058" duration="68000" />
+      <workItem from="1468578312191" duration="35000" />
+      <workItem from="1468578376025" duration="757000" />
+      <workItem from="1468581604655" duration="599000" />
+      <workItem from="1468582462515" duration="5928000" />
+      <workItem from="1468836443720" duration="12999000" />
+      <workItem from="1469101451521" duration="1814000" />
+      <workItem from="1469180556007" duration="728000" />
+      <workItem from="1469181352813" duration="189000" />
+      <workItem from="1469181571808" duration="285000" />
+      <workItem from="1469183580299" duration="136000" />
+      <workItem from="1469196454474" duration="904000" />
+      <workItem from="1474893827252" duration="1427000" />
+      <workItem from="1482749871975" duration="2893000" />
+      <workItem from="1482752775431" duration="565000" />
+      <workItem from="1484217578586" duration="232000" />
+      <workItem from="1484227024030" duration="45000" />
+      <workItem from="1484227441709" duration="245000" />
+      <workItem from="1484228374343" duration="110000" />
+      <workItem from="1484228571646" duration="3747000" />
+      <workItem from="1484238674707" duration="1317000" />
+      <workItem from="1484556856978" duration="874000" />
+      <workItem from="1484648528381" duration="4228000" />
+      <workItem from="1484744730744" duration="1504000" />
+      <workItem from="1484820233846" duration="1146000" />
+      <workItem from="1565789268262" duration="637000" />
+      <workItem from="1565866000775" duration="525000" />
+      <workItem from="1565866553530" duration="599000" />
+      <workItem from="1565872644240" duration="598000" />
+      <workItem from="1565948761748" duration="599000" />
+      <workItem from="1565956974701" duration="1197000" />
+      <workItem from="1567427368486" duration="385000" />
+      <workItem from="1567428043959" duration="166000" />
+      <workItem from="1567428264729" duration="222000" />
+      <workItem from="1567428514724" duration="599000" />
+      <workItem from="1567432404027" duration="642000" />
+      <workItem from="1567508469181" duration="15000" />
+      <workItem from="1573474222448" duration="377000" />
+      <workItem from="1624457984180" duration="2874000" />
+    </task>
+    <task id="LOCAL-00001" summary="share project">
+      <created>1469183672373</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1469183672373</updated>
+    </task>
+    <task id="LOCAL-00002" summary="share project">
+      <created>1469183702746</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1469183702746</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add @Description; optimize imports">
+      <created>1482753005359</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1482753005359</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add new resource bundles (mess1 and mess2)&#10;and the PropertiesSourceTest1.java test class that uses it (to test @TestPropertySource#locations)&#10;also the empty config for this test - propertiesSourceTestConfig.xml - is added">
+      <created>1482753197152</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1482753197152</updated>
+    </task>
+    <task id="LOCAL-00005" summary="test meta annotation for @TestPropertySource:&#10;custom annotation ( MyTestProperties.java ) and the test class ( PropertiesSourceTest2.java) are added">
+      <created>1482753272528</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1482753272528</updated>
+    </task>
+    <task id="LOCAL-00006" summary="test default locations for @TestPropertySource">
+      <created>1482753302431</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1482753302431</updated>
+    </task>
+    <task id="LOCAL-00007" summary="add metaannotation for ContextConfiguration - MyContextConfiguration.java">
+      <created>1484229500427</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1484229500427</updated>
+    </task>
+    <task id="LOCAL-00008" summary="different context file for test - to check #locations processing">
+      <created>1484233320324</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1484233320324</updated>
+    </task>
+    <task id="LOCAL-00009" summary="@SqlConfig, @SqlGroup test;&#10;@BeforeTransaction test">
+      <created>1484828634980</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1484828634980</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="PropertiesSourceTest3 - 2016.12.26 at 14h 25m 50s.xml">
+      <configuration name="PropertiesSourceTest3" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PropertiesSourceTest3 - 2016.12.26 at 14h 26m 03s.xml">
+      <configuration name="PropertiesSourceTest3" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PropertiesSourceTest3 - 2016.12.26 at 14h 26m 09s.xml">
+      <configuration name="PropertiesSourceTest3" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PropertiesSourceTest3 - 2016.12.26 at 14h 27m 14s.xml">
+      <configuration name="PropertiesSourceTest3" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TransactionalTest1 - 2017.01.17 at 14h 56m 46s.xml">
+      <configuration name="TransactionalTest1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TransactionalTest1 - 2017.01.17 at 15h 04m 41s.xml">
+      <configuration name="TransactionalTest1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TransactionalTest1 - 2017.01.17 at 15h 12m 54s.xml">
+      <configuration name="TransactionalTest1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TransactionalTest1 - 2017.01.17 at 15h 25m 21s.xml">
+      <configuration name="TransactionalTest1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TransactionalTest1 - 2017.01.17 at 15h 31m 32s.xml">
+      <configuration name="TransactionalTest1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TransactionalTest1_footabTest1 - 2017.01.18 at 16h 21m 00s.xml">
+      <configuration name="TransactionalTest1.footabTest1" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="share project" />
+    <MESSAGE value="add @Description; optimize imports" />
+    <MESSAGE value="add new resource bundles (mess1 and mess2)&#10;and the PropertiesSourceTest1.java test class that uses it (to test @TestPropertySource#locations)&#10;also the empty config for this test - propertiesSourceTestConfig.xml - is added" />
+    <MESSAGE value="test meta annotation for @TestPropertySource:&#10;custom annotation ( MyTestProperties.java ) and the test class ( PropertiesSourceTest2.java) are added" />
+    <MESSAGE value="test default locations for @TestPropertySource" />
+    <MESSAGE value="add metaannotation for ContextConfiguration - MyContextConfiguration.java" />
+    <MESSAGE value="different context file for test - to check #locations processing" />
+    <MESSAGE value="@SqlConfig, @SqlGroup test;&#10;@BeforeTransaction test" />
+    <option name="LAST_COMMIT_MESSAGE" value="@SqlConfig, @SqlGroup test;&#10;@BeforeTransaction test" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$PROJECT_DIR$/../../spring_libraries/spring4.3.1/spring-test-4.3.1.RELEASE.jar!/org/springframework/test/context/transaction/TransactionalTestExecutionListener.class</url>
+          <line>60</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>jar://$PROJECT_DIR$/../../spring_libraries/spring4.3.1/spring-tx-4.3.1.RELEASE.jar!/org/springframework/transaction/annotation/Transactional.class</url>
+          <line>23</line>
+          <properties class="org.springframework.transaction.annotation.Transactional" method="value" />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+</project>

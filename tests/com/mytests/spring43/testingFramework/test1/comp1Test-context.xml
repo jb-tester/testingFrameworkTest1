@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ctx="http://www.springframework.org/schema/context"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context.xsd">
+       <ctx:component-scan base-package="com.mytests.spring43.testingFramework.test1.components"/>
+    <beans profile="prof1">
+        <bean id="b1" class="com.mytests.spring43.testingFramework.test1.beans.Bean1">
+            <constructor-arg value="prof1_b1"/>
+        </bean>
+    </beans>
+    <beans profile="prof2">
+        <bean id="b1" class="com.mytests.spring43.testingFramework.test1.beans.Bean1">
+            <constructor-arg value="prof2_b1"/>
+        </bean>
+    </beans>
+</beans>

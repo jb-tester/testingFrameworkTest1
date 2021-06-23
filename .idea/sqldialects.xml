@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/testResources/mysql.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/tests/com/mytests/spring43/testingFramework/test1/TransactionalTest1.java" dialect="MySQL" />
+  </component>
+</project>
