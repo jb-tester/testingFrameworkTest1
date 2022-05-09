@@ -16,12 +16,12 @@ import org.springframework.test.context.junit4.SpringRunner;
  */
 @RunWith(SpringRunner.class)
 @ContextConfiguration(locations = "propertiesSourceTestConfig.xml")
-@TestPropertySource({"mess1.properties","file:/C:/Users/Irina.Petrovskaya/IdeaProjects/Spring/Spring43/testingFrameworkTest1/testResources/mess2.properties"})
+@TestPropertySource({"mess1.properties","file:/C:\\Users\\petro\\IdeaProjects\\Spring\\Spring_testing\\testingFrameworkTest1\\testResources\\mess2.properties"})
 public class PropertiesSourceTest1 {
 
-    @Value("#{'${message1}'}") // remove '' to check the property resolving in spel, like "#{${message1}}
+    @Value("${message1}")
     String mess1;
-    @Value("#{'${message2}'}") // remove '' to check the property resolving in spel, like "#{${message2}}
+    @Value("${message2}") // remove '' to check the property resolving in spel, like "#{${message2}}
     String mess2;
 
     @Test

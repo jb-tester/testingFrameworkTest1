@@ -9,6 +9,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 
 // https://youtrack.jetbrains.com/issue/IDEA-180603
+
 @RunWith(SpringJUnit4ClassRunner.class)
 @DefaultContextConfiguration(locations = "/custom_beans.xml")
 public class TestDefaultMetaAnnotationWithValue {

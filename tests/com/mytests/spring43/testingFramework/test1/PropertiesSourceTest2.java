@@ -21,9 +21,9 @@ import org.springframework.test.context.junit4.SpringRunner;
 @MyTestProperties(propertyFiles = {"mess1.properties","classpath:/mess2.properties"})
 public class PropertiesSourceTest2 {
 
-    @Value("#{'${message1}'}") // remove '' to check the property resolving in spel, like "#{${message1}}
+    @Value("${message1}")
     String mess1;
-    @Value("#{'${message2}'}") // remove '' to check the property resolving in spel, like "#{${message2}}
+    @Value("${message2}")
     String mess2;
 
     @Test

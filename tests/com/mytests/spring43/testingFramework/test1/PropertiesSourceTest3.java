@@ -19,7 +19,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 @TestPropertySource
 public class PropertiesSourceTest3 {
 
-    @Value("#{'${default1}'}") // remove '' to check the property resolving in spel, like "#{${message1}}
+    @Value("${default1}") // remove '' to check the property resolving in spel, like "#{${message1}}
     String mess1;
     @Value("#{'${default2}'}") // remove '' to check the property resolving in spel, like "#{${message2}}
     String mess2;
